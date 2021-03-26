@@ -1,3 +1,6 @@
 My first file in GIT
 
 for testing purpose
+doing  first change in file
+thank you
+regards
